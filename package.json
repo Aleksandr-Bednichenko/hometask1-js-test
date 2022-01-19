@@ -6,7 +6,7 @@
   "homepage": "https://Aleksandr-Bednichenko.github.io/hometask1-js-test",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /hometask1-javascript/",
+    "build": "parcel build src/*.html --public-url /hometask1-js-test/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
