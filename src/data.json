@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "icon": "/images/cart.png",
+    "name": "Shopping list",
+    "category": "Task",
+    "created": "April 20, 2021",
+    "сontent": "Tomatoes, bread",
+    "dates": [],
+    "isActive": "true"
+  },
+  {
+    "id": "2",
+    "icon": "/cart.6b493076.png",
+    "name": "The theory of evolution",
+    "category": "Random Thought",
+    "created": "April 27, 2021",
+    "сontent": "The evolution...",
+    "dates": ["3/05/2021, 5/05/2021"],
+    "isActive": "true"
+  },
+  {
+    "id": "3",
+    "icon": "./images/cart.png",
+    "name": "New Feature",
+    "category": "Idea",
+    "created": "May 05, 2021",
+    "сontent": "Implement new...",
+    "dates": [],
+    "isActive": "true"
+  },
+  {
+    "id": "4",
+    "icon": "./images/cart.png",
+    "name": "William Gaddis",
+    "category": "Quote",
+    "created": "May 07, 2022",
+    "сontent": "Power doesn't co...",
+    "dates": [],
+    "isActive": "true"
+  },
+  {
+    "id": "5",
+    "icon": "./images/cart.png",
+    "name": "Books",
+    "category": "Task",
+    "created": "May 15, 2021",
+    "сontent": "The Lean Startup",
+    "dates": [],
+    "isActive": "true"
+  },
+  {
+    "id": "6",
+    "icon": "./images/cart.png",
+    "name": "Parker",
+    "category": "Task",
+    "created": "May 17, 2021",
+    "сontent": "Power doesn't co...",
+    "dates": [],
+    "isActive": "false"
+  },
+  {
+    "id": "7",
+    "icon": "./images/cart.png",
+    "name": "Jordan",
+    "category": "Quote",
+    "created": "January 03, 2022",
+    "сontent": "Implement new...",
+    "dates": [],
+    "isActive": "false"
+  }
+]
